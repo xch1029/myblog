@@ -3,12 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
-language: en
+title: 欢迎来到德莱联盟
+subtitle: '这是你歇脚的地方'
+author: 迈克尔
+language: zh-CN
 timezone: ''
 
 # URL
@@ -93,7 +91,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: next
+theme: next1
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
